@@ -1,4 +1,4 @@
-#include "ui.h"
+#include <ui.h>
 #include <curses.h>
 #include <ncursesw/menu.h>
 #include <ncursesw/ncurses.h>
